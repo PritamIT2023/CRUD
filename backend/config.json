@@ -1,0 +1,17 @@
+{
+  "jwt": {
+    "accessTokenSecret": "b6f73bb26bdee9c0c991d3065f3245a9838da386517800085fce041354daee5a",
+    "refreshAccessTokenSecret": "4d3e062997d2eb48bac7b07e2370f5277b3f6fc173720919601c5235a8a11f30",
+    "expTime": "60m",
+    "expTimeRefreshToken": "1200m"
+  },
+  "database": {
+    "host": "localhost",
+    "port": 5432,
+    "dialect": "postgres",
+    "database": "cartSystem",
+    "username": "pritammondal",
+    "password": "admin",
+    "logging": false
+  }
+}
